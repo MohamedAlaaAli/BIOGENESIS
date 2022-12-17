@@ -1,6 +1,6 @@
 # BIOGENESIS
 This is the project of team BIOGENESIS of CUFE-SBME2025 as a part of our participation in the mathematics research day
-The projct is about breast cancer detection using CNNs using a dataset provided by baheya hosoital
+The projct is about breast cancer detection using CNNs using a BUSI DataSet
 the dataset consists of 3 classes of ultrasound images :
 - Normal Breast images
 - Benign Breast cancer
